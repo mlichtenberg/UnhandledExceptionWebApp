@@ -1,0 +1,5 @@
+This web application demonstrates how to capture various types of "unhandled" exceptions in an ASP.NET application.
+
+The Visual Studio 2010 solution includes two projects; a web site and a HTTP module. 
+
+All code is written in C#.
